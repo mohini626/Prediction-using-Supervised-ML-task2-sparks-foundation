@@ -1,4 +1,4 @@
-# Prediction-using-Supervised-ML-task3-sparks-foundation
+# Prediction-using-Supervised-ML-task2-sparks-foundation
 Prediction using Supervised ML- 
 
 Problem statement
